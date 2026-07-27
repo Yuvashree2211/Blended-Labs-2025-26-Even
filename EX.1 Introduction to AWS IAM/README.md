@@ -28,14 +28,26 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1906" height="967" alt="image" src="https://github.com/user-attachments/assets/5a385832-bb64-4530-bd21-3da2b7c1ca67" />
+
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/86fcfd02-07ea-4914-96d9-58ff1ebfdc97" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/8c695e1f-b0d1-426c-862e-fdaeb333791a" />
+
+
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/4a152ffa-e93e-4525-9909-af821f8a670b" />
+
+  
+<img width="1903" height="1015" alt="image" src="https://github.com/user-attachments/assets/e0a86e0c-9bc3-409b-bd3e-b9599853b2b0" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +55,14 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/d5515c5d-c4cc-4bf7-b14b-dbb1460ecb45" />
+
+
+<img width="1917" height="1078" alt="Screenshot 2026-07-27 141308" src="https://github.com/user-attachments/assets/2c243d09-8dc2-495e-82e7-d97ec8458543" />
+
+
+qw<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/40d7103c-a3d5-4b82-8d57-4e2a1a22b014" />
 
 
 ## Workflow
@@ -66,6 +85,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** YUVASHREE R (212224040378)
 **Course:** Introduction to Cloud Computing  
 
