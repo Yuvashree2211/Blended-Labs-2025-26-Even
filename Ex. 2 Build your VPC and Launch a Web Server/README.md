@@ -103,20 +103,23 @@ Step-6: I configured a user data script to automatically install Apache and depl
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
-<img width="1613" height="807" alt="image" src="https://github.com/user-attachments/assets/3e42b8f4-e218-44fe-9a0b-94333e41bb07" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/e6a14834-8540-4aa6-80d5-5e74b62f447d" />
+
 
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1613" height="816" alt="image" src="https://github.com/user-attachments/assets/6d31c1bc-22f3-48e5-a994-a041e56d171d" />
+<img width="1912" height="1077" alt="image" src="https://github.com/user-attachments/assets/90f84e70-7f97-4955-92f3-60f4a191d71c" />
+
 
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
-<img width="1613" height="842" alt="image" src="https://github.com/user-attachments/assets/54d99249-cb79-42e7-a76f-bafa2bafda85" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5a37412f-4551-4a23-8da2-c9d8e8259420" />
+
 
 ---
 
